@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexandrMaspanov
 - 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://linkedin.com/in/alexandr-maspanov-00378a227/, my email: alexandrmaspanov@gmail.com, Telegram: t.me/maspanovsasha
 
