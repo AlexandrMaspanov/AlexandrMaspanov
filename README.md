@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: https://linkedin.com/in/alexandr-maspanov-00378a227/, my email: alexandrmaspanov@gmail.com, Telegram: t.me/maspanovsasha
+- 📫 How to reach me: https://linkedin.com/in/alexandr-maspanov/, my email: alexandrmaspanov@gmail.com, Telegram: t.me/maspanovsasha
 
 <!---
 AlexandrMaspanov/AlexandrMaspanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
